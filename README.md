@@ -1,0 +1,1 @@
+This is my first project. I created five <h1> elements and styled their colors using HSL, transitioning from green to blue. I also generated three <li> items using three separate for loops: the first loop counts from 0 to 9, the second from 9 to 0, and the third uses an array to display even and odd numbers with distinct colors, styled entirely with CSS
