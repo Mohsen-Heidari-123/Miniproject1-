@@ -1,0 +1,29 @@
+.parent {
+  text-align: center;
+  justify-content: center;
+}
+
+.lopa2 {
+  border: solid 2px grey;
+  padding: 120px;
+
+  justify-content: center;
+}
+.lopa2 ul {
+  list-style-type: none;
+  border: 5px solid lavender;
+  background-color: lavender;
+  padding: 3px;
+  width: 50px;
+
+}
+
+li:nth-child(odd) {
+  background-color: black;
+  color: white;
+}
+
+li:nth-child(even) {
+  background-color: white;
+  color: black;
+}
